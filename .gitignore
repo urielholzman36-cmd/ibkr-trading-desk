@@ -1,0 +1,5 @@
+venv/
+scan.log
+launchd.out
+launchd.err
+__pycache__/
